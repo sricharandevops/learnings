@@ -1,3 +1,5 @@
+#Auther Sricharan
+#Description - Data collect script
 
 #!/bin/bash
 
