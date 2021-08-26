@@ -1,8 +1,7 @@
 # Version JDK8
 
 FROM centos:7
-MAINTAINER Gaurav Agarwal, bharatmicrosystems@gmail.com
-
+MAINTAINER Sricharan Mahavadi
 RUN yum install -y java-1.8.0-openjdk-devel wget git maven
 
 # Create users and groups
