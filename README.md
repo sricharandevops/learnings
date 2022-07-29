@@ -1,2 +1,1 @@
-# learnings
-my test scripts
+miscellaneous files.
